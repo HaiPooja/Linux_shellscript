@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo " enter three number"
+read a
+read b
+read b
